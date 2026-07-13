@@ -1,4 +1,4 @@
-import 'package:clean_arch_estudos/layers/domain/entities/carro_entity.dart';
+import 'package:clean_arch_estudos/layers/domain/entities/car_entity.dart';
 import 'package:clean_arch_estudos/layers/domain/repositories/save_favorite_car_repository.dart';
 import 'package:clean_arch_estudos/layers/domain/usecases/save_favorite_car/save_favorite_car_usecase.dart';
 
